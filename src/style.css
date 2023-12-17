@@ -1,0 +1,29 @@
+.text-center {
+  text-align: center;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.subtitle {
+  font-size: 20px;
+}
+
+.black {
+  color: black;
+}
+
+.blue {
+  color: blue;
+}
+
+.button {
+  color: #fff;
+  border: 2px solid #1e4aad;
+  padding: 7px 15px;
+  font-size: 16px;
+  background-color: #1e4aad;
+  cursor: pointer;
+  border-radius: 4px;
+}
